@@ -18,7 +18,7 @@
   <img src="https://img.icons8.com/fluency/96/000000/source-code.png"/>
   <h3>💻 Developer & Builder</h3>
   <p>
-  Passionate IT student at <strong>Government Polytechnic Mumbai</strong>, dedicated to crafting real-world software solutions. I love building projects across healthcare, e-commerce, and web development — from Hospital Management Systems to full-stack Next.js apps. Always learning, always shipping.
+  Passionate IT student at <strong>Vidyalankar institue of technology</strong>, dedicated to crafting real-world software solutions. I love building projects across healthcare, e-commerce, and web development — from Hospital Management Systems to full-stack Next.js apps. Always learning, always shipping.
   </p>
 </td>
 </tr>

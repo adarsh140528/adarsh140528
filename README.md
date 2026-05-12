@@ -37,7 +37,7 @@
 - 👯 Looking to collaborate on exciting **Web & Software projects**
 - 💬 Ask me about **HTML, CSS, JavaScript, C#, Java, .NET, Python**
 - 👨‍💻 **Projects** — All my projects are available [here](https://github.com/adarsh140528)
-- 🌐 **Portfolio** —  [My Portfolio](https://github.com/adarsh140528/My-Portfolio)
+- 🌐 **Portfolio** —  [My Portfolio](https://adarsh-rasal.vercel.app)
 - 🔗 **LinkedIn** — [Adarsh Rasal](https://www.linkedin.com/in/adarsh-rasal-a995922a9)
 - ⭐ 24 Repositories | 12 Stars earned
 

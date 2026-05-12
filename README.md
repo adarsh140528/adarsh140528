@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Adarsh Rasal</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=650&lines=IT+Student+%40+Gov.+Polytechnic+Mumbai;Full+Stack+Developer;Open+Source+Enthusiast;Building+Cool+Stuff+Every+Day"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Open+Source+Enthusiast;Building+Cool+Stuff+Every+Day"/>
   <br/>
   <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" alt="Cyberpunk Matrix" width="400" style="border-radius: 15px;"/>
   <br/>

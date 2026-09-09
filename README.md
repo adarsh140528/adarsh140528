@@ -1,128 +1,364 @@
-<h1 align="center">Hey there 👋, I'm Adarsh Rasal</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Open+Source+Enthusiast;Building+Cool+Stuff+Every+Day"/>
-  <br/>
-  <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" alt="Cyberpunk Matrix" width="400" style="border-radius: 15px;"/>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=adarsh140528&label=PROFILE+VISITS&color=00c9ff&style=for-the-badge"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:7C3AED,100:4C1D95&height=220&section=header&text=Adarsh%20Rasal&fontSize=60&fontColor=E9D5FF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%26%20AI%20Developer&descAlignY=58&descSize=20" width="100%"/>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Full+Stack+%2B+AI%2FML+Engineer;Building+Production-Grade+AI+Systems;Python+%7C+FastAPI+%7C+Next.js+%7C+React;Turning+Ideas+Into+Scalable+Products" alt="Typing SVG"/>
 
-<h2>🚀 About Me</h2>
+<br/>
 
-<table align="center">
-<tr>
-<td align="center" width="100%">
-  <img src="https://img.icons8.com/fluency/96/000000/source-code.png"/>
-  <h3>💻 Developer & Builder</h3>
-  <p>
-  Passionate IT student at <strong>Vidyalankar institue of technology</strong>, dedicated to crafting real-world software solutions. I love building projects across healthcare, e-commerce, and web development — from Hospital Management Systems to full-stack Next.js apps. Always learning, always shipping.
-  </p>
-</td>
-</tr>
-</table>
+<img src="https://img.shields.io/badge/🎓_IT_Student-Vidyalankar_Institute_of_Technology-6D28D9?style=flat-square&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/📍_Location-India-7C3AED?style=flat-square&labelColor=1a1a2e"/>
 
-<div align="center" style="background: linear-gradient(135deg, #00c9ff 0%, #92fe9d 100%); padding: 20px; border-radius: 15px; margin: 20px 0; color: #1a1a2e;">
-  <h3>🎯 Mission Statement</h3>
-  <p><em>"Code is not just logic — it's the bridge between ideas and impact."</em></p>
+<br/><br/>
+
+<a href="https://adarsh-rasal.vercel.app"><img src="https://img.shields.io/badge/Portfolio-4C1D95?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://linkedin.com/in/adarsh-rasal-a995922a9"><img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:adarsh.rasal@example.com"><img src="https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/adarsh140528"><img src="https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=adarsh140528&style=flat-square&color=7c3aed&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/adarsh140528?style=flat-square&color=7c3aed&labelColor=1a1a2e&label=FOLLOWERS"/>
+<img src="https://img.shields.io/github/stars/adarsh140528?style=flat-square&color=7c3aed&labelColor=1a1a2e&label=STARS"/>
+
 </div>
 
 ---
 
-## 📍 Quick Facts
+## 🧠 About Me
 
-- 🎓 **IT Student** at Government Polytechnic Mumbai
-- 👯 Looking to collaborate on exciting **Web & Software projects**
-- 💬 Ask me about **HTML, CSS, JavaScript, C#, Java, .NET, Python**
-- 👨‍💻 **Projects** — All my projects are available [here](https://github.com/adarsh140528)
-- 🌐 **Portfolio** —  [My Portfolio](https://adarsh-rasal.vercel.app)
-- 🔗 **LinkedIn** — [Adarsh Rasal](https://www.linkedin.com/in/adarsh-rasal-a995922a9)
-- ⭐ 24 Repositories | 12 Stars earned
+<img align="right" width="280" src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Coding.gif">
+
+I'm **Adarsh Rasal**, a Full Stack & AI Developer and IT student at **Vidyalankar Institute of Technology**, with **1–2 years** of hands-on experience shipping production-grade software.
+
+My work sits at the intersection of **software engineering** and **applied AI/ML** — I design systems that don't just work in a notebook, but scale in the real world: secure APIs, resilient architectures, and intelligent features powered by LLMs and computer vision.
+
+- 🔭 Engineering full-stack platforms with **Python, FastAPI, Next.js, and React**
+- 🤖 Building applied AI systems using **Gemini, Groq, Mistral AI**, RAG pipelines, and classical ML
+- 🏗️ Product-engineering mindset — I ship end-to-end: architecture → backend → frontend → deployment
+- 🔐 Strong focus on **security, scalability, and clean system design**
+- 🌱 Constantly iterating on real-world, deployed projects rather than tutorials
+
+**Open To:** Full-Stack Engineering Roles · AI/ML Engineering Roles · Backend Engineering · Freelance/Contract Projects · Open Source Collaboration
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-### 🎨 Frontend
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-</p>
+**Languages**
+<p> <img src="https://skillicons.dev/icons?i=python,java,cs,php,js,ts&theme=dark"/> </p>
 
-### ⚙️ Backend & Programming
-<p>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-</p>
+**Frontend**
+<p> <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark"/> </p>
 
-### 🗄️ Database & Tools
-<p>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-0078d4?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
-</p>
+**Backend & Databases**
+<p> <img src="https://skillicons.dev/icons?i=flask,fastapi,nodejs,dotnet,postgres,mongodb,mysql,supabase&theme=dark"/> </p>
+
+**Cloud, DevOps & Tooling**
+<p> <img src="https://skillicons.dev/icons?i=docker,git,github,vercel,render,vscode,postman&theme=dark"/> </p>
+
+---
+
+## 🤖 AI / ML Expertise
+
+| Domain | Proficiency | Details |
+|---|---|---|
+| **LLM Integration** | ⭐⭐⭐⭐⭐ | Google Gemini, Groq (Llama 3.3 70B), Mistral AI — production RAG & agent pipelines |
+| **Retrieval-Augmented Generation** | ⭐⭐⭐⭐☆ | Hybrid ChromaDB + BM25 retrieval, cross-encoder reranking |
+| **Computer Vision** | ⭐⭐⭐⭐☆ | OpenCV-based vitals extraction and image processing pipelines |
+| **Classical ML** | ⭐⭐⭐⭐☆ | Scikit-learn disease prediction models across 158 symptoms |
+| **AI System Security** | ⭐⭐⭐⭐☆ | SSRF-hardened verification pipelines, API key auth for AI services |
+| **Applied NLP** | ⭐⭐⭐☆☆ | Resume parsing, context-aware drafting, fact-verification pipelines |
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Tech | Description |
-|---------|------|-------------|
-| 🏥 [Hospital Management System](https://github.com/adarsh140528/Hospital-Management-System) | C# / .NET | Full-featured hospital management solution |
-| 🛒 [Electronics eCommerce Shop](https://github.com/adarsh140528/Electronics-eCommerce-Shop-With-Admin-Dashboard-NextJS-NodeJS-main-main) | TypeScript / Next.js / Node.js | E-commerce store with admin dashboard |
-| ❤️ [HealthCare Mini Project](https://github.com/adarsh140528/HealthCareMiniProject-master) | C# | Healthcare management mini-application |
-| ☕ [Java + .NET Project](https://github.com/adarsh140528/Java-_-.Net-Project) | Java / HTML | Cross-technology integration project |
-| 🌐 [3D Portfolio](https://github.com/adarsh140528/3D-PORTFOLIO) | JavaScript | Immersive 3D personal portfolio |
-| 🗂️ [My Portfolio](https://github.com/adarsh140528/My-Portfolio) | HTML / CSS | Personal portfolio website |
+<details>
+<summary><b>🏥 Medicare (MediVision AI) — Clinical Healthcare Platform</b></summary>
+<br/>
+
+A full-stack clinical healthcare platform combining ML-based disease prediction, computer-vision vitals monitoring, and a conversational AI health assistant.
+
+| Category | Detail |
+|---|---|
+| **Stack** | Python, Flask, Scikit-learn, OpenCV, Google Gemini, Twilio, Docker |
+| **Scale** | ML disease prediction across **158 symptoms** |
+| **Performance** | Real-time vitals extraction via computer vision |
+| **Security** | Twilio-based Two-Factor Authentication (2FA) |
+| **Impact** | End-to-end deployable clinical assistant platform |
+| **Repository** | [github.com/adarsh140528](https://github.com/adarsh140528) |
+
+Built as a comprehensive healthcare engineering system, MediVision AI integrates a trained ML model for symptom-based disease prediction with OpenCV-driven vitals capture and a Gemini-powered assistant for patient interaction — containerized with Docker for consistent deployment.
+
+</details>
+
+<details>
+<summary><b>🔍 SACHAAI — Evidence-Based AI Fact-Checking Engine</b></summary>
+<br/>
+
+An 11-stage evidence verification pipeline that fact-checks claims using retrieval and reasoning, exposed via a public developer API.
+
+| Category | Detail |
+|---|---|
+| **Stack** | FastAPI, Next.js 14, Python |
+| **Scale** | 11-stage verification pipeline |
+| **Performance** | Optimized multi-stage evidence retrieval and scoring |
+| **Security** | SSRF protection, developer API key authentication system |
+| **Impact** | Live production tool for automated fact verification |
+| **Repository** | [sachaai.vercel.app](https://sachaai.vercel.app) |
+
+SACHAAI was engineered with security-first principles (SSRF mitigation) and a modular verification pipeline, exposing a clean developer-facing API for third-party integration.
+
+</details>
+
+<details>
+<summary><b>📄 AI Docs Assistant — RAG Knowledge Platform</b></summary>
+<br/>
+
+A Retrieval-Augmented Generation platform for querying documents using hybrid search and reranking for high-precision answers.
+
+| Category | Detail |
+|---|---|
+| **Stack** | Groq (Llama 3.3 70B), ChromaDB, BM25, Cross-Encoder Reranker |
+| **Scale** | Hybrid dense + sparse retrieval across document corpora |
+| **Performance** | Reranked top-k retrieval for high answer precision |
+| **Security** | Isolated query pipeline, sanitized document ingestion |
+| **Impact** | Live deployed RAG assistant for real document Q&A |
+| **Repository** | [onrender.com](https://onrender.com) |
+
+Combines ChromaDB vector search with BM25 keyword retrieval in a hybrid pipeline, then applies cross-encoder reranking before passing context to Llama 3.3 70B via Groq for fast, grounded responses.
+
+</details>
+
+<details>
+<summary><b>📧 Smart Email Agent — Resume-Aware Email Drafter</b></summary>
+<br/>
+
+An intelligent email drafting agent that uses resume context and Gmail integration to generate personalized, relevant emails.
+
+| Category | Detail |
+|---|---|
+| **Stack** | Mistral AI, Gmail OAuth, Supabase, FastAPI, React |
+| **Scale** | Personalized generation per-user resume context |
+| **Performance** | OAuth-secured real-time Gmail integration |
+| **Security** | Gmail OAuth 2.0, Supabase-managed auth |
+| **Impact** | Automates personalized outreach and follow-up drafting |
+| **Repository** | [github.com/adarsh140528](https://github.com/adarsh140528) |
+
+Uses Mistral AI to generate context-aware email drafts informed by the user's resume, authenticated via Gmail OAuth with Supabase handling user and session management.
+
+</details>
+
+<details>
+<summary><b>💳 bgremoval-ai — AI SaaS with Payments</b></summary>
+<br/>
+
+A full SaaS product for AI-powered background removal, complete with authentication, credits, and payment processing.
+
+| Category | Detail |
+|---|---|
+| **Stack** | Clerk Auth, Razorpay, AI Background Removal Engine |
+| **Scale** | Multi-user SaaS with credit-based usage |
+| **Performance** | Fast image processing pipeline |
+| **Security** | Clerk-managed authentication, secured payment flow |
+| **Impact** | Fully monetized AI SaaS product |
+| **Repository** | [github.com/adarsh140528](https://github.com/adarsh140528) |
+
+A complete SaaS implementation featuring Clerk for authentication, Razorpay for payments, and a credit-based consumption model gating access to the AI background removal engine.
+
+</details>
+
+<details>
+<summary><b>🏦 Horizon Bank — Full-Stack Banking Application</b></summary>
+<br/>
+
+A full-stack digital banking platform simulating real-world banking operations end to end.
+
+| Category | Detail |
+|---|---|
+| **Stack** | Full-Stack Web Application |
+| **Scale** | Multi-feature banking workflow |
+| **Performance** | Deployed production build |
+| **Security** | Secured user session and transaction handling |
+| **Impact** | Live demo of a complete banking product experience |
+| **Repository** | [horizon-bank-one.vercel.app](https://horizon-bank-one.vercel.app) |
+
+Horizon Bank demonstrates full-stack proficiency by replicating core banking workflows in a deployed, production-style web application.
+
+</details>
+
+<details>
+<summary><b>🏨 Hospital Management System — C#/.NET RBAC Platform</b></summary>
+<br/>
+
+An enterprise-style hospital management system with role-based access control across four distinct roles.
+
+| Category | Detail |
+|---|---|
+| **Stack** | C#, .NET, MySQL |
+| **Scale** | 4-role Role-Based Access Control (RBAC) |
+| **Performance** | Optimized relational schema in MySQL |
+| **Security** | Role-based authorization across all modules |
+| **Impact** | Enterprise-grade hospital operations management |
+| **Repository** | [github.com/adarsh140528](https://github.com/adarsh140528) |
+
+Built on the .NET stack with a MySQL backend, this system implements strict RBAC across four roles (e.g., Admin, Doctor, Staff, Patient), reflecting enterprise software design patterns.
+
+</details>
 
 ---
 
-## 🤝 Let's Connect
+## 💼 Experience
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/adarsh-rasal-a995922a9" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/adarsh140528" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+> _Add your professional experience here in the format below — this section is left as a template since no work history details were provided._
 
----
+**Job Title**
+**Company Name** · Date Range
 
-## 📈 GitHub Stats
+Professional description of the role and its scope goes here.
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adarsh140528&theme=github_dark"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=adarsh140528&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00C9FF&icon_color=92fe9d&text_color=c9d1d9" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh140528&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00C9FF&text_color=c9d1d9" height="180"/>
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adarsh140528&theme=react-dark&bg_color=0d0221&color=ffffff&line=00c9ff&point=92fe9d&area=true&hide_border=true"/>
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adarsh140528&theme=github_dark"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adarsh140528&theme=github_dark"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adarsh140528&theme=github_dark"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adarsh140528&theme=github_dark&utcOffset=5.5"/>
-</p>
+**Scope of Work:**
+- Key responsibility or contribution one
+- Key responsibility or contribution two
+- Key responsibility or contribution three
+
+`Skill Tag` `Skill Tag` `Skill Tag`
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,25&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=ffffff&animation=twinkling"/>
-  <br/>
-  <sub>Made with ❤️ by Adarsh Rasal</sub>
-</p>
+## 🏆 Achievements
+
+<div align="center">
+
+| Recognition | Details |
+|---|---|
+| _Add achievement_ | _Add details_ |
+| _Add achievement_ | _Add details_ |
+
+</div>
+
+---
+
+## 📜 Certifications
+
+> _Add your certifications below, grouped by provider — placeholders included since none were specified._
+
+**AWS**
+<img src="https://img.shields.io/badge/AWS-Add_Certification-FF9900?style=flat-square&logo=amazon-aws&logoColor=white"/>
+
+**Oracle**
+<img src="https://img.shields.io/badge/Oracle-Add_Certification-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+
+**NPTEL**
+<img src="https://img.shields.io/badge/NPTEL-Add_Certification-6D28D9?style=flat-square"/>
+
+**Cisco**
+<img src="https://img.shields.io/badge/Cisco-Add_Certification-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/>
+
+---
+
+## 💻 Coding Profiles
+
+<div align="center">
+
+<a href="#"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=orange"/></a>
+<a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=adarsh140528&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=C9D1D9" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=adarsh140528&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA" width="48%"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh140528&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" width="48%"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=adarsh140528&theme=darkhub&no-frame=true&margin-w=10&row=1&column=7"/>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adarsh140528&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=7C3AED&point=E9D5FF" width="95%"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/adarsh140528/adarsh140528/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```yaml
+Learning:
+  - Advanced RAG architectures & agentic AI systems
+  - Distributed systems & scalable backend design
+  - Cloud-native deployment patterns
+
+Building:
+  - Production-grade AI-powered SaaS products
+  - Secure, scalable full-stack platforms
+
+Exploring:
+  - Multi-agent LLM orchestration
+  - Vector databases & hybrid retrieval systems
+
+Open To:
+  - Full-Stack Engineering Roles
+  - AI/ML Engineering Roles
+  - Freelance & Contract Opportunities
+  - Open Source Collaboration
+```
+
+---
+
+## 📬 Connect With Me
+
+<div align="center">
+
+<a href="mailto:adarsh.rasal@example.com"><img src="https://img.shields.io/badge/Gmail-4C1D95?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/adarsh-rasal-a995922a9"><img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/adarsh140528"><img src="https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://adarsh-rasal.vercel.app"><img src="https://img.shields.io/badge/Portfolio-4C1D95?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+
+</div>
+
+---
+
+<div align="center">
+
+_"Great engineering isn't about writing more code — it's about building systems that scale, secure, and serve."_
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:7C3AED,100:6D28D9&height=120&section=footer"/>
+
+</div>

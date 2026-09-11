@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:7C3AED,100:4C1D95&height=220&section=header&text=Adarsh%20Rasal&fontSize=60&fontColor=E9D5FF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%26%20AI%20Developer&descAlignY=58&descSize=20" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Full+Stack+%2B+AI%2FML+Engineer;Building+Production-Grade+AI+Systems;Python+%7C+FastAPI+%7C+Next.js+%7C+React;Turning+Ideas+Into+Scalable+Products" alt="Typing SVG"/>
 
